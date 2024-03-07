@@ -46,7 +46,7 @@ a {
   margin-left: 20px;
 }
 
-@media(max-width: 300px) {
+@media(max-width: 600px) {
   .container-images {
     flex-direction: column;
   }
