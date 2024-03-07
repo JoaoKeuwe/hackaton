@@ -1,0 +1,47 @@
+body {
+  background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+    align-items: center;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.container-images {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+
+}
+
+.container-images img {
+  width: 200px;
+  height: 180px;
+  border-radius: 40%;
+  display: flex;
+  padding: 6em;
+}
+
+.container-images div {
+  align-items: center;
+  text-align: center;
+}
+
+.container-images p {
+  font-size: 25px;
+  font-family: "Lora", serif;
+}
+
+a {
+  font-style: none;
+  color: black;
+  font-size: 25px;
+  margin-left: 20px;
+}
